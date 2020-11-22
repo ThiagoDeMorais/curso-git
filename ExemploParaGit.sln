@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploParaGit", "ExemploParaGit\ExemploParaGit.csproj", "{15A1E7D3-114F-40FD-8FA3-6CF0E9B557DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A1E7D3-114F-40FD-8FA3-6CF0E9B557DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A1E7D3-114F-40FD-8FA3-6CF0E9B557DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A1E7D3-114F-40FD-8FA3-6CF0E9B557DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A1E7D3-114F-40FD-8FA3-6CF0E9B557DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D146AD76-A8D0-4833-AF97-09D8625FDD95}
+	EndGlobalSection
+EndGlobal
